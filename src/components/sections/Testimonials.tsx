@@ -8,7 +8,7 @@ const testimonials = [
   {
     name: "Sarah Johnson",
     role: "Small Business Owner",
-    content: "Arun iPro made my taxes stress-free. Their team is professional, responsive, and saved me more than I expected.",
+    content: "Kumar Tax service made my taxes stress-free. Their team is professional, responsive, and saved me more than I expected.",
     rating: 5,
   },
   {

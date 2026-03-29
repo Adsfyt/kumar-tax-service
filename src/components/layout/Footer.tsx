@@ -45,7 +45,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-gray-800 pt-8 text-center text-xs">
-          <p>Arun iPro Services. Copyright © {currentYear}. All rights reserved.</p>
+          <p>Kumar Tax Services. Copyright © {currentYear}. All rights reserved.</p>
         </div>
       </div>
     </footer>
