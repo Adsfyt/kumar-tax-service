@@ -22,7 +22,7 @@ export function Header() {
           <div className="flex lg:flex-1">
             <Link href="/" className="-m-1.5 p-1.5 flex items-center gap-2">
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-primary-light bg-clip-text text-transparent">
-                Kumar
+                Kumar Tax Services
               </span>
               <span className="hidden sm:inline text-sm text-gray-500">| Tax & Accounting</span>
             </Link>
