@@ -15,15 +15,15 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Arun iPro Services | Tax Preparation & Accounting in Toronto",
+  title: "Kumar Tax Services | Tax Preparation & Accounting in Toronto",
   description: "Expert tax preparation, accounting, and consulting services across all Canadian provinces. Two Toronto locations. Book your appointment today.",
   keywords: "tax preparation Toronto, accounting services Scarborough, corporate tax, personal tax, international student tax",
-  authors: [{ name: "Arun iPro Services" }],
+  authors: [{ name: "Kumar Tax Services" }],
   openGraph: {
-    title: "Arun iPro Services – Tax & Accounting",
+    title: "Kumar Tax Services – Tax & Accounting",
     description: "365 days a year tax services for all Canadian provinces.",
-    url: "https://arunipro.com",
-    siteName: "Arun iPro Services",
+    url: "https://kumartax.com",
+    siteName: "Kumar Tax Services",
     locale: "en_CA",
     type: "website",
   },

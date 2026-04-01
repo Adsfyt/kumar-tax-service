@@ -84,7 +84,7 @@ export function Header() {
         >
           <div className="flex items-center justify-between p-6 border-b">
             <Link href="/" className="text-xl font-bold text-primary" onClick={() => setMobileMenuOpen(false)}>
-              Arun iPro
+              Kumar Tax Services
             </Link>
             <button
               type="button"

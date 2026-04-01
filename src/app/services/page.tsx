@@ -110,7 +110,7 @@ export default function ServicesOverview() {
             className="text-center max-w-3xl mx-auto mb-12"
           >
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              Why Choose Arun iPro Services?
+              Why Choose Kumar Tax Services?
             </h2>
             <p className="mt-4 text-lg text-gray-600">
               We combine expertise with a personal touch to deliver exceptional service.
